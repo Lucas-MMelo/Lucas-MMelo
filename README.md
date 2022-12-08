@@ -1,14 +1,18 @@
 
-<h3>Prazer, me chamo Lucas!</h3>
-
+<h2>Prazer, me chamo Lucas!</h2>
+<h5>Front-end Developer</h5>
+  
 <ul>
-  <li>I’m currently learning Front-end</li>
-  <li>Pronouns: ele/dele</li>
+  <li><strong>Level:</strong> 28</li>
+  <li><strong>Race:</strong> Human</li>
+  <li><strong>Background:</strong> Designer</li>
+  <li><strong>Homeland:</strong> Campinas</li>
+  <li><strong>Guild:</strong> Gamer</li>
 </ul>
 
-##
-
 <div align="center">
+  
+  <h3>Skills:</h3>
 
   <a href="https://github.com/Lucas-MMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-MMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
