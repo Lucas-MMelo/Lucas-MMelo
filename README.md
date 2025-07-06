@@ -3,7 +3,7 @@
 <h5>Front-end Developer</h5>
   
 <ul>
-  <li><strong>Level:</strong> 28</li>
+  <li><strong>Level:</strong> 31</li>
   <li><strong>Race:</strong> Human</li>
   <li><strong>Background:</strong> Designer</li>
   <li><strong>Homeland:</strong> Campinas</li>
